@@ -1,4 +1,4 @@
-Mean Reversion Pairs Trading Strategy
+Statistical Arbitrage (Mean Reversion Pairs Trading Strategy)
 
 📌 Overview
 This project contains a backtesting framework for a Mean Reversion Pairs Trading Strategy using historical stock price data. The strategy assumes that the spread between two correlated stocks follows a mean-reverting process, and trades are executed when the spread deviates significantly from its mean.
