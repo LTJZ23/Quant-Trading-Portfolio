@@ -17,5 +17,4 @@ Version 0.1 - Work in Progress. Currently a live tracker; backtesting to be adde
 
 ## Setup
 1. Install dependencies:
-   ```bash
    pip install numpy pandas yfinance scipy
