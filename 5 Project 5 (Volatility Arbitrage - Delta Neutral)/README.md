@@ -21,5 +21,6 @@ This project implements a delta-neutral volatility arbitrage strategy using opti
 - Python 3.x
 - Libraries: `numpy`, `pandas`, `yfinance`, `scipy`
 
-Install dependencies:
-pip install numpy pandas yfinance scipy
+## Install dependencies:
+1. Install dependencies:
+    pip install numpy pandas yfinance scipy
