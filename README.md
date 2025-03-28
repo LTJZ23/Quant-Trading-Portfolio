@@ -12,6 +12,8 @@ A collection of quantitative trading strategies by [LTJZ23](https://github.com/L
    Tracks TSLA options for arbitrage opportunities by comparing market prices to theoretical prices from Black-Scholes and Geometric Brownian Motion (GBM) models. Generates BUY/SELL signals with a 20% price difference threshold.
 5. **Project 5 (Volatility Arbitrage - Delta Neutral Tracker)**  
    A delta-neutral volatility arbitrage strategy that compares Historical Volatility (HV) to Implied Volatility (IV) for SPY options. Identifies mispriced options and suggests trades with Take Profit (TP) at ±2% absolute HV change and Stop Loss (SL) at 70% (longs) or 130% (shorts) of entry price.
+6. **Project 6 (Options Arbitrage Backtester)**  
+   Backtests an options arbitrage strategy using historical SPY options data. Identifies mispriced options by comparing Black-Scholes theoretical prices with market prices and simulates a trading strategy.
 
 ## Purpose
 This portfolio showcases my progress in quantitative trading, from basic simulations to advanced arbitrage strategies. Each project is a work in progress, with plans to refine and expand functionality.
